@@ -69,3 +69,4 @@ dotnet run --project src/DevOpsMinem.API --urls http://localhost:5000
 ```
 echo "" >> README.md
 echo "<!-- exploración rama beta -->" >> README.md
+# cambio no commitado
